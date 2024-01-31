@@ -1,0 +1,398 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 1366px;
+    height: 1701px;
+    background-color: #FFF;
+    border: solid;
+    opacity: 0.7;
+}
+
+.menu {
+    display: flex;
+   
+}
+
+.flex-box {
+    width: 1216px;
+    height: 1442;
+    display: flex;
+    flex-direction: column;
+    padding: 91px 75px;
+
+    
+}
+
+.flex-box1 {
+    background-color: #FFF;
+    width: 1216px;
+    height: 384px;
+    display: flex; 
+    
+    
+}
+
+.flex1A {
+    width: 384px;
+    height: 334xp;
+    background-color: #FFF;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    margin: 10px;
+    
+}
+
+.box1 {
+    width: 384px;
+    height: 232px;
+    background-color:#010101 ;
+    
+}
+
+.flex1B {
+    width: 384px;
+    height: 334xp;
+    background-color: #FFF;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    margin: 10px;
+} 
+
+.box2 {
+    width: 384px;
+    height: 232px;
+    background-color: #010101;
+    
+}
+
+.flex1C {
+    width: 384px;
+    height: 334xp;
+    background-color: #FFF;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.box3 {
+    width: 384px;
+    height: 232px;
+    background-color: #010101;
+    
+}
+
+.flex-box2 {
+    width: 1216px;
+    height: 463px;
+    display: flex;
+    margin: 10px;
+
+    
+}
+
+.flex2A {
+    width: 384px;
+    height: 463px;
+    background-color: #010101;
+    margin: 20px 0px 0px 0px;
+    border-radius: 5px;
+    
+}
+
+.flex2B {
+display: flex;
+flex-direction: column;
+width: 384px;
+height: 463px;
+background-color: #FFF;
+margin: 10px;
+
+   
+}
+
+.box5 {
+    display: flex;
+    background-color: #FFF;
+    width: 384px;
+    height: 145px;
+    border-radius: 5px;
+
+    margin: 10px;
+}
+
+.box8 {
+    width: 162px;
+    height: 145px;
+    border-radius: 5px;
+    background: #010101;
+    border-radius: 5px;
+}
+.text-box8 {
+    display: flex;
+    flex-direction: column;
+}
+
+.title-box8 {
+   color: #010101;
+    font-family: Raleway;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;}
+
+
+.box6 {  
+    display: flex;
+    background-color: #FFF;
+    width: 384px;
+    height: 145px;
+    border-radius: 5px;
+    margin: 10px;
+
+}
+
+.box9 {
+    width: 162px;
+    height: 145px;
+    border-radius: 5px;
+    background: #010101;
+    border-radius: 5px;
+
+    
+}
+.text-box9 {
+    display: flex;
+    flex-direction: column;}
+
+.title-box9 {
+        color: #010101;
+        font-family: Raleway;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;   
+    }
+
+.box7 {
+display: flex;
+background-color: #FFF;
+width: 384px;
+height: 145px;
+border-radius: 5px;
+margin: 10px;
+}
+
+.box10 {
+    width: 162px;
+    height: 145px;
+    border-radius: 5px;
+    background: #010101;
+    border-radius: 5px;
+
+   
+}
+.text-box10 {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.title-box10 {
+        color: #010101;
+        font-family: Raleway;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;   
+    }
+
+.flex2C {
+    display: flex;
+    flex-direction: column;
+    width: 384px;
+    height: 463px;  
+    background-color: #FFF; 
+    margin: 14px 14px 10px 14px;
+
+   }
+
+.box11 {
+    display: flex;
+    background-color: #FFF;
+    width: 384px;
+    height: 231px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.box13 {
+    display: flex;
+    background-color: #010101;
+    width: 174px;
+    height: 219px;
+    border-radius: 5px;
+}
+
+.text-box13 {
+    display: flex;
+    flex-direction: column;}
+
+.title-box13 {
+        color: #010101;
+        font-family: Raleway;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;   
+    }
+
+.box12 {
+    display: flex;
+    background-color: #FFF;
+    width: 384px;
+    height: 145px;
+    border-radius: 5px;
+    margin: 5px;
+
+}
+
+.box14{
+    display: flex;
+    background-color: #010101;
+    width: 174px;
+    height: 222px;
+    border-radius: 5px;
+    margin: 0xp 0xp 5px 0xp;
+    padding: 0xp 0px 5px 0px;
+
+
+}
+
+.text-box14 {
+    display: flex;
+    flex-direction: column;
+}
+    
+
+.title-box14 {
+        color: #010101;
+        font-family: Raleway;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 700;   
+        
+    }
+
+.flex-box3 {
+    width: 1216px;
+    height: 207px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #FFF;
+    margin: 0px 0px 10px 0px;
+
+}
+
+.box15 {
+    background-color: #010101;
+    width: 590px;
+    height: 207px;
+    margin: 9px 5px 9px 9px;
+
+}
+
+.box16 {
+    background-color: #010101;
+    width: 590px;
+    height: 207px;
+    margin: 32px;
+
+    margin: 9px 13px 9px 5px;
+}
+
+.flex-box4 {
+        /*background-color: yellow;*/
+
+        width: 1216px;
+        height: 207px;
+        margin: 10px 10px 10px -20px;
+    }
+
+    .box17 {
+        background-color: #010101;
+        width: 1216px;
+        height: 217px;
+        padding: 0px 0px 0px 0px;
+        margin: 10px 30px;
+        box-sizing: border-box;
+    }
+
+h3 {
+    display: flex;
+    width: 232px;
+    height: 45px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #010101;
+    font-family: Raleway;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+    }
+
+h4 {
+        display: flex;
+    width: 174px;
+    height: 18px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #010101;
+    font-family: Raleway;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+}
+
+.text-flexbox1A1B1C {
+    display: flex;
+    width: 382px;
+    height: 70px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #010101;
+    font-family: Raleway;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+}
+
+.text-flexbox2B2C {
+    display: flex;
+    width: 208px;
+    height: 37px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    color: #010101;
+    font-family: Raleway;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 120%;
+}
+    
+    
+    
+    
+    
